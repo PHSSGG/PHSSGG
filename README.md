@@ -12,7 +12,7 @@
 <div style="border-color: gray">
     
     
-    I'm 18 years old, I started studying programming at 14 years old,
+    I'm 18 years old, I started studying programming in 2017,
     since then I've been falling even more in love with technology and looking to expand my knowledge in the area
 </div>
 

@@ -4,7 +4,8 @@
 <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/PHSSGG" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a> &nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/pedro-henrique-75a2a3219/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
-    <a href="https://phssgg.tk/" target="_blank"><img alt="Website" src="https://img.shields.io/static/v1?label=Website&message=Website&color=blueviolet"></a>
+&nbsp; &nbsp;
+    <a href="https://phssgg.tk/" target="_blank"><img alt="Website" src="https://img.shields.io/static/v1?label=&message=Website&color=blueviolet"></a>
 </div>
 
 <br>

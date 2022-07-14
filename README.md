@@ -4,6 +4,7 @@
 <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/PHSSGG" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white"></a> &nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/pedro-henrique-75a2a3219/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
+    <a href="https://phssgg.tk/" target="_blank"><img alt="Website" src="https://img.shields.io/static/v1?label=Website&message=Website&color=blueviolet"></a>
 </div>
 
 <br>
@@ -16,7 +17,7 @@
     since then I've been falling even more in love with technology and looking to expand my knowledge in the area
 </div>
 
-- 👌 I have a great admiration for medicine and my favorite series about it is Hospital Playlist
+- 👌 I have a great admiration for medicine and my favorite series about this topic is Hospital Playlist
 - 🎧 I like to listen to music while programming, it's even become muscle memory to put something to play before opening the IDE
 - ❤️ I love to create new things and my greatest joy is seeing something I've made working
 
@@ -25,7 +26,7 @@
 - 💬 **Korean**:
   - I love to watch Korean Dramas and Movies
 - 💭 **English**:
-  - I already know a lot about English, but I still have to improve my vocabulary and pronnounce
+  - I already know a lot about English but I still have to improve my vocabulary and pronnounce
 - 🔎 **Programming stuff**:
   - Some programming stuff I'm currently or planning to learn
 
